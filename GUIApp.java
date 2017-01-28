@@ -1,3 +1,12 @@
+/*
+ * Name: Enrique Cahua
+ * ID: 0523964
+ * Date: 1/28/2017
+ * Lab #: 2
+ * Discription: Swing App
+*/
+
+
 package guiapp;
 import java.awt.*; import javax.swing.*; import java.awt.event.*; import java.util.ArrayList; import javax.swing.ButtonGroup; import javax.swing.JRadioButton; import javax.swing.SwingUtilities;
 
